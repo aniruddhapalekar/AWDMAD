@@ -1,0 +1,24 @@
+{
+    "courses":[
+        {
+            "name":"ADS",
+            "id":"1"
+
+        },
+        {
+            "name":"cloud computing",
+            "id":"2"
+
+        },
+        {
+            "name":"AWDMAD",
+            "id":"3"
+
+        },
+        {
+            "name":"Deep Learning",
+            "id":"4"
+
+        }
+    ]
+}

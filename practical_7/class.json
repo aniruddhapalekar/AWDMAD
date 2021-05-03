@@ -1,0 +1,15 @@
+{
+    "class": "TYCSE",
+    "batches":[
+        {
+            "batch":"T2",
+            "students":"['janardhan','suyash','srm']",
+            "id":"2"
+        },
+        {
+            "batch":"T8",
+            "students":"['aniruddha','mahendra','shubham']",
+            "id":"8"
+        }
+    ]
+}
